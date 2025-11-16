@@ -114,15 +114,3 @@ void loop() {
 *.swp
 *.tmp
 ```
-
----
-
-## 📜 License
-
-โปรเจกต์นี้ใช้ **MIT License**
-
----
-
-## 🙌 Author
-
-Created by **kenta**
